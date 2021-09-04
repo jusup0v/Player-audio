@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(184, 245, 215);
+}
+
+.all {
+    text-align: center;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 315px;
+    height: 315px;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
